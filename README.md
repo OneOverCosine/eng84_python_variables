@@ -16,3 +16,5 @@ If the outcome is ```hello world!``` that means everything is working fine
 ### ```.gitignore```
 If I was using PyCharm, I would need to use .gitignore file to ignore files/folders that I don't want to send to GitHub
 For the sake of following along, create a ```.gitignore``` file
+
+To add a comment to any file with the extention .py, use a hash ```#```
